@@ -1,0 +1,24 @@
+*{
+    margin:0 ;
+    padding: 0;
+}
+
+body{
+    background-color: brown;
+}
+    div{
+        height: 80px;
+        width: 80%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #primeira{
+        background-color: azure;
+        overflow: scroll;
+    }
+
+    #segunda{
+        background-color: darkgray;
+        margin-top: 10px;
+    }
